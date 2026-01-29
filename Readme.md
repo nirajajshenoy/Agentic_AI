@@ -102,14 +102,14 @@ Schedule meetings on Google Calendar
 🧠 Task 1: Study Topic
 Enter topic to study: Agentic AI
 Enter priority for study task: 2
-
+```
 📅 Task 2: Schedule Meeting
 Enter meeting title: AI Review Meeting
 Enter start time (YYYY-MM-DDTHH:MM:SS): 2026-01-20T10:00:00
 Enter end time (YYYY-MM-DDTHH:MM:SS): 2026-01-20T11:00:00
 Enter attendee emails: a@gmail.com, b@gmail.com
 Enter priority for meeting task: 1
-
+```
 🧠 Why This Is Agentic AI
 
 This system:
