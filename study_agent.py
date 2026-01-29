@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 # --------------------------------
 # YOUTUBE CONFIG
 # --------------------------------
-API_KEY = "AIzaSyBUNu1CNoXzydIYydbmFF-s7eIznOloyBc"
+API_KEY = "YOUR_API_KEY"
 YOUTUBE_SERVICE_NAME = "youtube"
 YOUTUBE_VERSION = "v3"
 
