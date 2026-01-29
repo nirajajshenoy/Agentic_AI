@@ -38,6 +38,7 @@ Action Module
    └── Calendar Agent (Google Calendar API)
 
 📂 Project Structure
+
 trialagent/
 │
 ├── main.py                 # Main agent loop
@@ -47,6 +48,7 @@ trialagent/
 ├── credentials.json        # Google API credentials (not committed)
 ├── token.json              # OAuth token (auto-generated)
 └── README.md
+
 
 ⚙️ Prerequisites
 
