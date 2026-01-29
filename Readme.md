@@ -25,7 +25,7 @@ Planning
 Action
 
 Demonstrates core principles of Agentic AI
-
+```
 🧩 System Architecture
 User Input
    ↓
@@ -36,7 +36,7 @@ Planning Module (Sort by priority)
 Action Module
    ├── Study Agent
    └── Calendar Agent (Google Calendar API)
-
+```
 ## 📂 Project Structure
 ```
 trialagent/
